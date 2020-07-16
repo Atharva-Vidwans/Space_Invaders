@@ -10,4 +10,5 @@ The Libraries reqiured for this are as follows:
 
 Pygame can be installed by using pip command : pip install pygame.
 
-The Images used for Spaceships and bullets are attached in the repo.
+The Images used for Spaceships, bullets and background are attached in the repo.The Images are in .jpg and .png format.
+
