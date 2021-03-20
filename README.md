@@ -14,4 +14,4 @@ The Images used for Spaceships, bullets and background are attached in the repo.
 
 # Result
 <img src="https://user-images.githubusercontent.com/57441520/111868078-d4eb6700-899d-11eb-94be-0c179fd1da55.PNG" width="500" height="500">
-![space invaders](https://user-images.githubusercontent.com/57441520/111868078-d4eb6700-899d-11eb-94be-0c179fd1da55.PNG )
+
